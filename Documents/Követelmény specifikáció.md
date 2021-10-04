@@ -54,3 +54,11 @@ A szervergépnek mindig futnia kell, ahoz hogy el tudják érni az oldalt a kien
 | Frontend | F4 | Regisztrációs oldal | A felhasználó regisztrációjára használt oldal. |
 | Frontend | F5 | Main oldal | Beléptetés után megjelenő felület. |
 
+## További lehetséges funkciók listája
+#### (Ebbe a fejezetbe kerülnek azok a fungciók amiket amiket a !!jövőben még!! meg akarunk valósítani)
+- (Lehetséges bővítések amiket úgy gondolunk, vagy a vevő úgy gondol hogy hasznos kiegészítései
+ lehetnek a programnak)
+ 
+| Modul | ID |Név | Leírás |
+|---|---|---|---|
+| Frontend | F6 | Side oldal | A fő oldal melett csinálhatunk, kiegészíthetjük akár hírekkel, vagy melléktörténetekkel egy külön menüpont alatt. |
