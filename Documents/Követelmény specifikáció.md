@@ -22,3 +22,12 @@ Felül a menüsorban ki lehet választani milyen stílusú vicceket szeretne olv
 így a középen lévő üzenőfal megváltozva kiszűri ezeket a vicceket és ezeket jeleníti meg. 
 Mivel a megrendelő nem vágyik a bonyolultságra, ezért elég egy adott kategóriának megfeleni.
 
+## Elvárt működés
+#### (A program működésével kapcsolatos információk)
+- (Ki kell fejteni hogy maga a szoftver amit elkészítünk milyen fugciókat tartalmaz és hogyan működnek)
+- (tartalma a fentiek alapján)
+
+A felhasználó bejelentkezés nélkül megtekintheti a vicceket, tud szűrést végrehajtani,
+de nem tud ujabb vicceket hozzáírni, ehez be kell regisztrálnia és belépnie.
+A regisztráció ingyenes és autómatikus, de az Admin elveheti a jogukat hogy tudjanak vicceket felvinni
+ha azok nem felelnek meg az elvárt követelményeknek. 
