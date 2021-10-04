@@ -40,3 +40,17 @@ ha azok nem felelnek meg az elvárt követelményeknek.
 A futtatáshoz szükség van Internetre , böngészőböl futatható ugyanis weboldalról van szó
 A megrendelőnek rendelkeznie kell egy szervergéppel/vagy bérelt tárhelyel és egy Domain címmel
 A szervergépnek mindig futnia kell, ahoz hogy el tudják érni az oldalt a kiensek
+
+## Szükséges funkciók listája
+#### (Ebbe a fejezetbe kerülnek azok a fungciók amiket meg akarunk valósítani)
+- (Ajánlott táblázat szerűen elrendezni)
+- (tartalma mindig több fungció annál több)
+
+| Modul | ID |Név | Leírás |
+|---|---|---|---|
+| Backend | F1 | Adatbázis | Az adatbázis tárolja az alkalmazás által használt adatokat |
+| Backend | F2 | Funkciók | A felhasználó által használt parancsok végrehajtása |
+| Frontend | F3 | Felhasználó beléptető oldal | A felhasználó beléptetésére használt oldal. |
+| Frontend | F4 | Regisztrációs oldal | A felhasználó regisztrációjára használt oldal. |
+| Frontend | F5 | Main oldal | Beléptetés után megjelenő felület. |
+
