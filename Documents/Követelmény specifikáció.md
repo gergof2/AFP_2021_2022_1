@@ -31,3 +31,12 @@ A felhasználó bejelentkezés nélkül megtekintheti a vicceket, tud szűrést 
 de nem tud ujabb vicceket hozzáírni, ehez be kell regisztrálnia és belépnie.
 A regisztráció ingyenes és autómatikus, de az Admin elveheti a jogukat hogy tudjanak vicceket felvinni
 ha azok nem felelnek meg az elvárt követelményeknek. 
+
+## A rendszer futtatása
+#### (Opcionális, de jó ha van növeli a dokumentum méretét és hitelességét)
+- (Ha asztali alkalmazás, Ird le hogyan indítod el, mi kell a használatához)
+- (Ha webes, akkor az adatbázist és a szervert írd)
+
+A futtatáshoz szükség van Internetre , böngészőböl futatható ugyanis weboldalról van szó
+A megrendelőnek rendelkeznie kell egy szervergéppel/vagy bérelt tárhelyel és egy Domain címmel
+A szervergépnek mindig futnia kell, ahoz hogy el tudják érni az oldalt a kiensek
