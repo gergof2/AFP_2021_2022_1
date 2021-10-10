@@ -62,3 +62,18 @@ A szervergépnek mindig futnia kell, ahoz hogy el tudják érni az oldalt a kien
 | Modul | ID |Név | Leírás |
 |---|---|---|---|
 | Frontend | F6 | Side oldal | A fő oldal melett csinálhatunk, kiegészíthetjük akár hírekkel, vagy melléktörténetekkel egy külön menüpont alatt. |
+
+## Adatbázis
+
+- (Az adatbázis megtervezett váza, lehet akár kép is)
+
+
+- Tábla a felhasználók kezelésére :
+   - userid: a felhasználóhoz tartozó azonosító
+   - username: felhasználónév
+   - password: jelszó
+   - email: a felhasználó email címe
+   - registerdate: mikor regisztrált
+- Külön tábla az adatok tárolására ( viccek ) :
+  - userid (kulcs)
+  - Data : viccek tertalma
