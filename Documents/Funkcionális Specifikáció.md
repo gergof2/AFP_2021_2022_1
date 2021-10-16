@@ -44,3 +44,8 @@ Az emberek számára szeretnénk megkönnyíteni a mindennapokat. Szeretnénk cs
 közösségeknek egy olyan alkamazást nyújtani ami megkönnyíti nekik a beszélgetéseket,
 hogy humorosabban tünjenek fel.
 
+## fogalomszótár
+
+- __projekt__ A projekt egy olyan egyedi folyamatrendszer, amely kezelési és befejezési
+időpontokkal megjelölt, specifikus követelményeknek - határidő, költség, erőforrás
+megfelelő célkitűzés elérése érdekében vállalt, koordinált és kontrollált tevékenységek csoportja. 
