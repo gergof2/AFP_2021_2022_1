@@ -23,3 +23,6 @@ Középen egy üzenőfal szerűen legördülő lista,
 ahol kommentszerűen különböző hosszúságú vicceket lehet feltölteni és olvasni.
 Felül a menüsorban ki lehet választani milyen stílusú vicceket szeretne olvasni a felhasználó,
 így a középen lévő üzenőfal megváltozva kiszűri ezeket a vicceket és ezeket jeleníti meg.
+
+## A rendszerre vonatkozó külső megszorítások
+### (pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.)
