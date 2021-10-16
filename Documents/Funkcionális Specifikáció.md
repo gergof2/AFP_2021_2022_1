@@ -10,7 +10,7 @@ Projektünk célja a szórakoztatás, egy átlátható weblapon keresztül. Webo
 - (mielőtt még a szoftver elkészül)
 - (tartalma 2-3 mondat)
 
-Az országban az emberek természete álltalában nem vidám, sok gond és viszontakság éri őket. 
+Az országban az emberek természete általában nem vidám, sok gond és viszontakság éri őket. 
 Ezért születik meg számukra ez a weboldal, hogy szórakoztassa őket.
 
 ## Vágyálom rendszer leírása
@@ -19,8 +19,7 @@ Ezért születik meg számukra ez a weboldal, hogy szórakoztassa őket.
 - (tartalma 5-10 mondat)
 
 Egy olyan program megvalósítása webes felületen, amely a látogatókat megnevetteti/jobb kedvre deríti. 
-Középen egy üzenőfal szerűen legördülő lista,
-ahol kommentszerűen különböző hosszúságú vicceket lehet feltölteni és olvasni.
+Középen egy üzenőfalszerűen legördülő lista, ahol kommentszerűen különböző hosszúságú vicceket lehet feltölteni és olvasni.
 Felül a menüsorban ki lehet választani milyen stílusú vicceket szeretne olvasni a felhasználó,
 így a középen lévő üzenőfal megváltozva kiszűri ezeket a vicceket és ezeket jeleníti meg.
 
@@ -30,22 +29,22 @@ Felül a menüsorban ki lehet választani milyen stílusú vicceket szeretne olv
 ## Jelenlegi üzleti folyamatok modellje
 ### (Mi az ami már létezik az alkalmazásból)
 
-A mai világban már sok veboldal létezik, mindegyik más más márkát tartalmaz, és az emberek különböző
-dolgokra használják. A mi welboldalunk célja ahogy azt már fentebb is kifejtettük a szórakoztatás 
-így tartalmilag viccek találhatóak az oldalunkon. A nagy vicc filozófusok így vélekednek :
+A mai világban már sok weboldal létezik, mindegyik más-más márkát tartalmaz, és az emberek különböző
+dolgokra használják. A mi welboldalunk célja, ahogy azt már fentebb is kifejtettük a szórakoztatás, 
+így tartalmilag megfelelő viccek találhatók az oldalunkon. A nagy vicc filozófusok így vélekednek:
  
-*A humor rejtélyeinek kutatói többnyire csak egész egyszerűen és tömören vetik fel a
-kérdést: például mi a nevetés? Milyen inger hatására nevetünk? stb*
+"A humor rejtélyeinek kutatói többnyire csak egész egyszerűen és tömören vetik fel a
+kérdést: például mi a nevetés? Milyen inger hatására nevetünk? stb."
  
 ## Igényelt üzleti folyamatok modellje
 ### (Amire a vevő vágyik és szeretne)
 
 Az emberek számára szeretnénk megkönnyíteni a mindennapokat. Szeretnénk csoportoknak,
-közösségeknek egy olyan alkamazást nyújtani ami megkönnyíti nekik a beszélgetéseket,
-hogy humorosabban tünjenek fel.
+közösségeknek egy olyan alkamazást nyújtani, ami megkönnyíti nekik a beszélgetéseket,
+hogy humorosabbnak tünjenek fel.
 
 ## fogalomszótár
 
 - __projekt__ A projekt egy olyan egyedi folyamatrendszer, amely kezelési és befejezési
 időpontokkal megjelölt, specifikus követelményeknek - határidő, költség, erőforrás
-megfelelő célkitűzés elérése érdekében vállalt, koordinált és kontrollált tevékenységek csoportja. 
+megfelelő célkitűzés elérése érdekében vállalt, koordinált és kontrollált tevékenységek csoportja.
