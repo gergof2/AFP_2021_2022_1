@@ -37,3 +37,10 @@ dolgokra használják. A mi welboldalunk célja ahogy azt már fentebb is kifejt
 *A humor rejtélyeinek kutatói többnyire csak egész egyszerűen és tömören vetik fel a
 kérdést: például mi a nevetés? Milyen inger hatására nevetünk? stb*
  
+## Igényelt üzleti folyamatok modellje
+### (Amire a vevő vágyik és szeretne)
+
+Az emberek számára szeretnénk megkönnyíteni a mindennapokat. Szeretnénk csoportoknak,
+közösségeknek egy olyan alkamazást nyújtani ami megkönnyíti nekik a beszélgetéseket,
+hogy humorosabban tünjenek fel.
+
