@@ -25,4 +25,15 @@ Felül a menüsorban ki lehet választani milyen stílusú vicceket szeretne olv
 így a középen lévő üzenőfal megváltozva kiszűri ezeket a vicceket és ezeket jeleníti meg.
 
 ## A rendszerre vonatkozó külső megszorítások
-### (pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.)
+### (Pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.)
+
+## Jelenlegi üzleti folyamatok modellje
+### (Mi az ami már létezik az alkalmazásból)
+
+A mai világban már sok veboldal létezik, mindegyik más más márkát tartalmaz, és az emberek különböző
+dolgokra használják. A mi welboldalunk célja ahogy azt már fentebb is kifejtettük a szórakoztatás 
+így tartalmilag viccek találhatóak az oldalunkon. A nagy vicc filozófusok így vélekednek :
+ 
+*A humor rejtélyeinek kutatói többnyire csak egész egyszerűen és tömören vetik fel a
+kérdést: például mi a nevetés? Milyen inger hatására nevetünk? stb*
+ 
