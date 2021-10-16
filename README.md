@@ -5,3 +5,7 @@
 - Az első elkészítendő dokumentum a követelményspecifikáció , ahol a vevő szempontjából kell leírni a dolgokat , mire vágyik , mit szeretne
     - A kiegészítéseket , mint az adott bekezdések terjedelmét nem kell készpénznek venni, lehet több ,
      kevesebb kevésbé , de az sem jó ha oldalakon keresztül ecsetelünk egy egy bekezdést. 
+     
+- A második elkészítendő dokumentum a funkcionális specifikáció a felhasználó szemszögéből írja le a rendszert. A követelményspecifikációból
+ismerjük az elkészítendő rendszer követelményeit, ezeket kell úgy átalakítani, használati esetekké, ami nem igényel informatikai tudást
+és könnyen megérthető vagy felfogható
