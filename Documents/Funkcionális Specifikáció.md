@@ -43,6 +43,13 @@ Az emberek számára szeretnénk megkönnyíteni a mindennapokat. Szeretnénk cs
 közösségeknek egy olyan alkamazást nyújtani, ami megkönnyíti nekik a beszélgetéseket,
 hogy humorosabbnak tünjenek fel.
 
+## Követelménylista
+### (Felületek, funkciók megadása)
+
+- Könnyen használható/átlátható felület.
+- Viccek feltöltése
+- Viccek szűrése szempontok alapján
+
 ## fogalomszótár
 
 - __projekt__ A projekt egy olyan egyedi folyamatrendszer, amely kezelési és befejezési
