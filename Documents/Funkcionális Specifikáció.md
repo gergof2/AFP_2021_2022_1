@@ -55,6 +55,10 @@ hogy humorosabbnak tünjenek fel.
 - Weboldal betöltése -> Viccek megtekintése
 - Weboldal betöltése -> Viccek szűrése -> Viccek megtekintése
 
+## Képernyőtervek
+
+![title](Images/kepernyoterv.png)
+
 ## fogalomszótár
 
 - __projekt__ A projekt egy olyan egyedi folyamatrendszer, amely kezelési és befejezési
