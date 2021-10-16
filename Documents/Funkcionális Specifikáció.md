@@ -50,6 +50,11 @@ hogy humorosabbnak tünjenek fel.
 - Viccek feltöltése
 - Viccek szűrése szempontok alapján
 
+## Használati esetek
+
+- Weboldal betöltése -> Viccek megtekintése
+- Weboldal betöltése -> Viccek szűrése -> Viccek megtekintése
+
 ## fogalomszótár
 
 - __projekt__ A projekt egy olyan egyedi folyamatrendszer, amely kezelési és befejezési
