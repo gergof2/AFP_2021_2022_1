@@ -93,3 +93,11 @@ hatályon kívül helyezéséről (általános adatvédelmi rendelet
 meghatározása annak érdekében, hogy a természetes személyek magánszféráját az adatkezelők tiszteletben tartsák,
 valamint a közügyek átláthatósága a közérdekű és a közérdekből nyilvános adatok megismeréséhez és terjesztéséhez
 fűződő jog érvényesítésével megvalósuljon.
+
+## Szótár
+  - (azok a kifejezések amiket az emberek nem ismerhetnek)
+
+
+  - **backend**: adat-hozzáférési réteg a szoftverben.
+  - **frontend**: felület a felhasználó és a backend között.
+  - **dobozos szoftver**: nagy közönségnek készűlt termék.
